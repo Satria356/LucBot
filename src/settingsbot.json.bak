@@ -11,7 +11,7 @@
 "autoregis": false,
 "multi": true,
 "mainmenu": false,
-"banChats": false,
+"banChats": true,
 "autorespon": false,
 "database": true,
 "premium": true,

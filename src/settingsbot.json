@@ -1,6 +1,6 @@
 {
 "autocomposing": true,
-"autorecording": false,
+"autorecording": true,
 "bugc": false,
 "antitrol": false,
 "antical": false,
@@ -11,10 +11,10 @@
 "autoregis": false,
 "multi": true,
 "mainmenu": false,
-"banChats": false,
+"banChats": true,
 "autorespon": false,
-"database": false,
-"premium": false,
+"database": true,
+"premium": true,
 "infoerror": false,
 "autobackup": false
 }
