@@ -8,13 +8,13 @@
 "readG": false,
 "readP": true,
 "regisinfo": false,
-"autoregis": false,
+"autoregis": true,
 "multi": true,
-"mainmenu": false,
+"mainmenu": true,
 "banChats": true,
-"autorespon": false,
+"autorespon": true,
 "database": true,
-"premium": true,
+"premium": false,
 "infoerror": false,
 "autobackup": false
 }
